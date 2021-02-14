@@ -1,0 +1,144 @@
+{
+  "Order": [
+    {
+      "UUID": "4bcb0f56-d4dd-4241-9285-0f5710913edb",
+      "Name": "OdinCore - Mod Services"
+    },
+    {
+      "UUID": "e4a5c8ca-7f04-23ab-8115-18161eb702bf",
+      "Name": "Odinblade's Spectre Class: Definitive Edition"
+    },
+    {
+      "UUID": "f450d461-1841-436d-a371-26100fbf6f29",
+      "Name": "Odinblade's Spectre Class (DE) Add-On - Finesse Override"
+    },
+    {
+      "UUID": "c22c52be-7a44-1f58-f058-3b359421db05",
+      "Name": "Odinblade's Umbra Class: Definitive Edition"
+    },
+    {
+      "UUID": "961ae59d-2964-46dd-9762-073697915dc2",
+      "Name": "Odinblade's Aerotheurge Class Overhaul"
+    },
+    {
+      "UUID": "0aaff3e4-a7eb-47f9-b376-0a886a6fb6d3",
+      "Name": "Odinblade's Aerotheurge Class Overhaul Add-On - Physical Teleportation"
+    },
+    {
+      "UUID": "ffb501cc-ab6d-46de-be89-732c9e289f3e",
+      "Name": "Odinblade's Geomancer Class Overhaul"
+    },
+    {
+      "UUID": "c7c59dea-ba1f-41d0-914c-265bd4a914ee",
+      "Name": "Odinblade's Geomancer Class Overhaul Add-On - Pet Power Compatibility"
+    },
+    {
+      "UUID": "8700ba4e-7d4b-40ca-a23f-b43816794957",
+      "Name": "Odinblade's Necromancer Class Overhaul"
+    },
+    {
+      "UUID": "e0bb1701-15a5-407e-8f98-1f34838cfc1f",
+      "Name": "Odinblade's Necromancer Class Overhaul Add-On - Pet Power Compatibility"
+    },
+    {
+      "UUID": "02ca48b9-e4ef-a8e4-91d7-0b9df70bb595",
+      "Name": "Odinblade's Hydrosophist Class Overhaul"
+    },
+    {
+      "UUID": "aab53301-4f38-1d49-91f7-28dfa468084b",
+      "Name": "Odinblade's Pyrokinetic Class Overhaul"
+    },
+    {
+      "UUID": "90c70786-45b5-44e4-9ffd-9e519c8a6110",
+      "Name": "Odinblade's Pyrokinetic Class Overhaul Add-On - Physical Corpse Explosion"
+    },
+    {
+      "UUID": "415d7948-8676-4f32-8fa1-81080888ae25",
+      "Name": "Odinblade's Pyrokinetic Class Overhaul Add-On - Scorching Dragon's Blaze"
+    },
+    {
+      "UUID": "f07179d5-db79-40a1-9a28-c8d58fe62e4e",
+      "Name": "Odinblade's Pyrokinetic Class Overhaul Add-On - Pet Power Compatibility"
+    },
+    {
+      "UUID": "1d882e00-f2ca-42f3-9d7c-0b318b5ef4de",
+      "Name": "OdinCore Add-On - Class Vendor Tweaks"
+    },
+    {
+      "UUID": "25469b00-aa46-470d-aa76-f6c3ece35e17",
+      "Name": "Helaene - Shared Library"
+    },
+    {
+      "UUID": "faac3525-c5b3-580d-6ef2-ed9797f68fb0",
+      "Name": "Helaene - Blacksmith Class (DE)"
+    },
+    {
+      "UUID": "958ef674-66ec-d208-1112-5c62ffbba16b",
+      "Name": "Helaene - Cryomancer Class (DE)"
+    },
+    {
+      "UUID": "3a5f27e8-2bb7-a1aa-210d-646fa48a1a98",
+      "Name": "Helaene - Mirage Class (DE)"
+    },
+    {
+      "UUID": "fd3534f5-99b9-cae1-a458-ecf9f3be5a3c",
+      "Name": "Helaene - Priest Class (DE)"
+    },
+    {
+      "UUID": "975c594c-2382-93a0-377a-847775be6c5b",
+      "Name": "Helaene - Succubus Class (DE)"
+    },
+    {
+      "UUID": "ca9ff65f-b16d-690a-22c5-6c3c31d8e597",
+      "Name": "Helaene - Trickster Class (DE)"
+    },
+    {
+      "UUID": "78a84dd9-de34-c4c7-47a5-e47bd080ebb1",
+      "Name": "Helaene - Valkyrie Class (DE)"
+    },
+    {
+      "UUID": "ba43959a-490b-0846-6630-56a90568b651",
+      "Name": "Helaene - Vampire Class (DE)"
+    },
+    {
+      "UUID": "260d1263-4650-51f8-38dc-614f6c9536ed",
+      "Name": "Helaene - Wyldfae Class (DE)"
+    },
+    {
+      "UUID": "23fd9162-a6c2-b4a7-9400-013b6ed3a0ac",
+      "Name": "Interesting Uniques (Definitive Edition)"
+    },
+    {
+      "UUID": "8644dc94-51f9-9553-cb55-71855bb2c102",
+      "Name": "Dragon Knight DE"
+    },
+    {
+      "UUID": "e59c9dad-83ca-c6ed-acad-06fdcc7ab308",
+      "Name": "WeaponMaster"
+    },
+    {
+      "UUID": "a38e646c-013d-129b-1520-a74315af869a",
+      "Name": "Heaphaistos's Berserker Class"
+    },
+    {
+      "UUID": "c03acb8a-03b9-4c79-84ff-3784e97774da",
+      "Name": "Let There Be Tooltips! - Definitive Edition"
+    },
+    {
+      "UUID": "6aaa43a9-3a72-e82e-a6f6-8c367fd82117",
+      "Name": "Crafting Overhaul [DE]"
+    },
+    {
+      "UUID": "db07c22c-8935-3848-2366-7827b70c6030",
+      "Name": "LadyC - More Character Colors [DE]"
+    },
+    {
+      "UUID": "1900e671-bb23-4ccd-b7bb-5e18a8628026",
+      "Name": "LadyC - Pet Revival [Definitive Edition]"
+    },
+    {
+      "UUID": "627f624f-e2b8-4b37-977e-03044e500fec",
+      "Name": "Majoras - Character Creation Plus - Definitive Edition"
+    }
+  ]
+}
